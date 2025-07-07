@@ -1,5 +1,6 @@
 <h1>Captive Portal</h1>
 
+![image](https://github.com/user-attachments/assets/ef4f1813-161e-4d19-a2c0-14b1c32a864e)
 
 <p>
 In the Testout lab, I learned how to set up guest wifi with captive portal for a fictional user accessing to a hotel network I'm working for.
@@ -22,4 +23,13 @@ Don't any guest accidentally slow the internet down and reasure taking network s
 
 
 
-![image](https://github.com/user-attachments/assets/ef4f1813-161e-4d19-a2c0-14b1c32a864e)
+![image](https://github.com/user-attachments/assets/2aa22755-7b9e-41ba-b466-543fdd9cc04a)
+
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/6b80d1d6-4dd7-4f41-b561-c3e0d399e699)
+
+<br>
+
